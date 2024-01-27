@@ -45,12 +45,11 @@ for i in range(1, 10):
 				print('has acertado el numero, la maquina_2 a ganado')
 		# if maquina_1 == secreto:
 		# 	vitorias_m1+=1
-		# 	print(f'la maquina_1 a gando {vitorias_m1} veces')
+		# 	print(f'la maquina_1 a gano {vitorias_m1} veces')
 		# elif maquina_2 == secreto:
 		# 	vitorias_m2+=1
-		# 	print(f'la maquina_2 a gando {vitorias_m2} veces')
+		# 	print(f'la maquina_2 a gano {vitorias_m2} veces')
 
 
-	 	
-				
-	# input('preciona enter par acontinuar...')
+
+	# input('presiona enter para continuar...')

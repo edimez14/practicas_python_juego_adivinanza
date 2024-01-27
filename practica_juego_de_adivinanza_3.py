@@ -1,8 +1,8 @@
 """
-este codigo tenia un error y es que no actualizaba los limites superior he inferior de la variable numero
+este código tenia un error y es que no actualizaba los limites superior he inferior de la variable numero
 esto pasaba porque no se retornaba el valor de la variable numero, todo esto se soluciono retornando todos estos valores
-por mi inesperiencia no sabia muy bien como hayar la solucion y por eso pase por alto el retornar el valor de la vairble numeror
-por heyp tuve que pedirle ayuda a chatgpt para ver como encontrar una solucion a mi problema, asi que todo el credito a chatgpt
+por mi inexperiencia no sabia muy bien como hallar la solución y por eso pase por alto el retornar el valor de la vairble numeror
+por eyo tuve que pedirle ayuda a chatgpt para ver como encontrar una solución a mi problema, asi que todo el credito a chatgpt
 """
 
 # primero importamos los paquetes que vamos a usar
@@ -68,5 +68,5 @@ for i in range(1, 10):
 print(f"Maquina 1 ha ganado: {victorias['Maquina 1']} veces")
 print(f"Maquina 2 ha ganado: {victorias['Maquina 2']} veces")
 
-#input para cerrar la ventana y asi no se cierra de forma automatica
+#input para cerrar la ventana y asi no se cierra de forma automática
 input('Presione cualquier tecla para salir...')

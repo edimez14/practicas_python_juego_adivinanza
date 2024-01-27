@@ -115,4 +115,4 @@ print(f"Maquina 1 ha ganado {victorias_maquina_1} veces.")
 print(f"Maquina 2 ha ganado {victorias_maquina_2} veces.\n")
 
 #input para continuar el juego que hace que no cierre la ventana
-input('preciona enter para acontinuar...')
+input('presiona enter para continuar...')
